@@ -31,7 +31,9 @@ I am a data science enthusiast with a strong foundation in physics and machine l
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Programming Languages:** Python, HTML/CSS, LaTeX
+
 **Tools and Libraries:** Keras, TensorFlow, Numpy, Pandas, Matplotlib, Sklearn, React
+
 **Interests:** Machine Learning, Data Science, Financial Modeling, Blockchain
 
 Feel free to explore my repositories to learn more about my projects. If you have any questions or would like to collaborate on a project, don't hesitate to get in touch!
