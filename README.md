@@ -23,6 +23,10 @@ I am a data science enthusiast with a strong foundation in physics and machine l
 
 - Performed data analysis and curve-fitting of muon detector measurements using Python (Pandas, Matplotlib, Numpy, Sklearn). Grade: 79%
 
+#### StartupGPT
+
+- Developed a GPT-wrapper that generates a start-up idea, 1-minute pitch, MVP ideas, market-sizing and product roadmap over a weekend. Used langchain, streamlit, OpenAI api among others.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
