@@ -1,4 +1,8 @@
+## About Me
+
 I am a data science enthusiast with a strong foundation in physics and machine learning. I recently graduated with a BSc in Physics and will soon be undertaking a MSc in Data Science and Machine Learning I have a passion for leveraging data-driven solutions to solve complex problems and create meaningful insights.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Projects
