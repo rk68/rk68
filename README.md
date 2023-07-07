@@ -10,15 +10,18 @@ I am a data science enthusiast with a strong foundation in physics and machine l
 
  - Co-developed the front-end of a decentralised rental app as part of the Polkadot x Astar Network x EasyA Blockchain Hackathon. Our team secured 3rd place and a prize of $1,000. Technologies used: React, HTML, CSS, ChatGPT.
 
+#### Kinematic Reconstruction using Forward-Tagging at The Large Hadron Collider (Group Project)
+
+- Adapted and tested kinematic reconstruction code using C++
+- Co-authored the report in LaTeX/Overleaf (Grade: 79%)
+
 #### A Convolutional Neural Network Neutrino Event Classifier
 
-- Developed classifiers and a regression model for neutrino images, achieving an F1 score of 0.81. The project was implemented in Python using Keras, Pandas, TensorFlow, and Numpy.
-Kinematic Reconstruction using Forward-Tagging at The Large Hadron Collider
+- Developed classifiers and a regression model for neutrino images, achieving an F1 score of 0.81. The project was implemented in Python using Keras, Pandas, TensorFlow, and Numpy. Grade: 91%
 
 #### Measuring the Cosmic Ray Muon Lifetime
 
-- Performed data analysis and curve-fitting of muon detector measurements using Python (Pandas, Matplotlib, Numpy, Sklearn).
-Skills
+- Performed data analysis and curve-fitting of muon detector measurements using Python (Pandas, Matplotlib, Numpy, Sklearn). Grade: 79%
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
