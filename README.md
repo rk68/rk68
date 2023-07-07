@@ -5,7 +5,7 @@ I am a data science enthusiast with a strong foundation in physics and machine l
 #### Blocasa - Decentralised Rental App
 
  - Co-developed the front-end of a decentralised rental app as part of the Polkadot x Astar Network x EasyA Blockchain Hackathon. Our team secured 3rd place and a prize of $1,000. Technologies used: React, HTML, CSS, ChatGPT.
- - 
+
 #### A Convolutional Neural Network Neutrino Event Classifier
 
 - Developed classifiers and a regression model for neutrino images, achieving an F1 score of 0.81. The project was implemented in Python using Keras, Pandas, TensorFlow, and Numpy.
