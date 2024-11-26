@@ -4,29 +4,6 @@ I am a data science enthusiast with a strong foundation in physics and machine l
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## Projects
-
-#### Kinematic Reconstruction using Forward-Tagging at The Large Hadron Collider (Group Project)
-
-- Adapted and tested kinematic reconstruction code using C++
-- Co-authored the report in LaTeX/Overleaf (Grade: 79%)
-
-#### A Convolutional Neural Network Neutrino Event Classifier
-
-- Developed classifiers and a regression model for neutrino images, achieving an F1 score of 0.81. The project was implemented in Python using Keras, Pandas, TensorFlow, and Numpy. Grade: 91%
-
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Programming Languages:** Python, HTML/CSS, LaTeX
-
-**Tools and Libraries:** Keras, TensorFlow, Numpy, Pandas, Matplotlib, Sklearn, React
-
-**Interests:** Machine Learning, Data Science, Financial Modeling, Blockchain
-]
-
 - Email: rishi.k3838@gmail.com
 - LinkedIn: linkedin.com/in/-rishi-kalra/
 
