@@ -4,7 +4,7 @@
 
 - Email: rishi.k3838@gmail.com
 - LinkedIn: linkedin.com/in/-rishi-kalra/
-- website: rk68.github.io
+- website: [rk68.github.io]
 
 <!---
 rk68/rk68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
